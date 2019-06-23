@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/DatingAppAPI/Controllers/ValuesController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding>
                 <marker date="1554650337540" expanded="false" signature="6:153" ph="..." />
                 <marker date="1554650337540" expanded="true" signature="226:1319" ph="{...}" />
@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/DatingAppAPI/appsettings.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -42,18 +42,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DatingAppAPI/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
+            <state relative-caret-position="173">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
-                <marker date="1554649148614" expanded="true" signature="6:464" ph="..." />
-                <marker date="1554649148614" expanded="true" signature="487:1709" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="514:1707" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="573:636" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="859:1090" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="1278:1701" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="1325:1402" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="1419:1625" ph="{...}" />
-                <marker date="1554649148614" expanded="true" signature="1450:1611" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
+                <marker date="1554656034504" expanded="false" signature="6:464" ph="..." />
+                <marker date="1554656034504" expanded="true" signature="487:1828" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="514:1826" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="573:636" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="859:1122" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="1310:1820" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="1357:1434" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="1451:1657" ph="{...}" />
+                <marker date="1554656034504" expanded="true" signature="1482:1643" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
               </folding>
             </state>
           </provider>
@@ -73,8 +73,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/DatingAppAPI/appsettings.json" />
-        <option value="$PROJECT_DIR$/DatingAppAPI/Startup.cs" />
         <option value="$PROJECT_DIR$/DatingAppAPI/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/DatingAppAPI/Startup.cs" />
       </list>
     </option>
   </component>
@@ -152,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554626466271</updated>
-      <workItem from="1554626469292" duration="8382000" />
+      <workItem from="1554626469292" duration="9083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8382000" />
+    <option name="totallyTimeSpent" value="9083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,14 +174,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5877342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.051107325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" weight="0.44050992" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="REST Client" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.36819485" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.36819485" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Performance Profiler" />
@@ -278,28 +278,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DatingAppAPI/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="29" column="71" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="71" />
-          <folding>
-            <marker date="1554649148614" expanded="true" signature="6:464" ph="..." />
-            <marker date="1554649148614" expanded="true" signature="487:1709" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="514:1707" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="573:636" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="859:1090" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="1278:1701" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="1325:1402" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="1419:1625" ph="{...}" />
-            <marker date="1554649148614" expanded="true" signature="1450:1611" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DatingAppAPI/Controllers/ValuesController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
           <folding>
             <marker date="1554650337540" expanded="false" signature="6:153" ph="..." />
             <marker date="1554650337540" expanded="true" signature="226:1319" ph="{...}" />
@@ -317,7 +299,25 @@
     <entry file="file://$PROJECT_DIR$/DatingAppAPI/appsettings.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatingAppAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <marker date="1554656034504" expanded="false" signature="6:464" ph="..." />
+            <marker date="1554656034504" expanded="true" signature="487:1828" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="514:1826" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="573:636" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="859:1122" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="1310:1820" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="1357:1434" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="1451:1657" ph="{...}" />
+            <marker date="1554656034504" expanded="true" signature="1482:1643" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
+          </folding>
         </state>
       </provider>
     </entry>

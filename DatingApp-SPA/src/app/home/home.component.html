@@ -1,0 +1,19 @@
+<div class="container mt-5">
+  <div *ngIf="!registerMode" style="text-align: center">
+    <h1> Find your math</h1>
+    <div class="lead">Come on in to viewyour matches...ALl you nedd</div>
+    <div class="text-center">
+      <div class="btn btn-primary btn-lg" (click)="registerToggle()">Register</div>
+      <div class="btn btn-info btn-lg">Learn more</div>
+    </div>
+  </div>
+
+  <div *ngIf="registerMode" class="container">
+    <div class="row justify-content-center">
+      <div class="col-4">
+        <app-register [valueFromHome]="values"></app-register>
+      </div>
+    </div>
+  </div>
+</div>
+
