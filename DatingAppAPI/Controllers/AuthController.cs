@@ -50,8 +50,10 @@ namespace DatingAppAPI.Controllers
         }
 
         [HttpPost("login")]
+        [AllowAnonymous]
         public async Task<IActionResult> Login(UserForLoginDTO dto)
         {
+            throw new Exception("Say no");
             var userFromRepo = await _repo.Login(dto.Username.ToLower(), dto.Password);
 
             if (userFromRepo == null)
